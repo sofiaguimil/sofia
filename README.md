@@ -1,2 +1,2 @@
 # sofia
- semana6
+ semana6 proyecto
